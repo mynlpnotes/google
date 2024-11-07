@@ -2,7 +2,7 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 * Alpha represents the attention weight at each time step
 * H represents hidden state of encoder RNN at each time step
 * HD respresent hidden state of decoder RNN at each time step
